@@ -9,9 +9,9 @@ $configs = [
 	'dbpassword' => '',
 	'dbname' => 'undergroundbot',
 	'dbprefix' => 'ub_',
-	'telegramkey' => '1103187893:AAH8ytJHoVWgKO0ZYz2WuYCY1DN37n8p5Js',
+	'telegramkey' => '',
 	'telegramhost' => 'https://api.telegram.org/bot',
-	'siteurl' => 'https://stg02.mobileforce.mobi/teleapi/undergroundbot/'
+	'siteurl' => ''
 ];
 
 function _c($key) {
